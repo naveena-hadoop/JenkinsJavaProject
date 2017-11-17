@@ -1,0 +1,1 @@
+it is testing java project build on jenkins when gitHub gets commits
